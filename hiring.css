@@ -1,0 +1,33 @@
+body
+{
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+#faceBookLogo, #instagramLogo{
+    font-size: 1.5rem;
+}
+
+#homePage{
+    background-image: url("./assets/img1.jpg"); 
+    width: 100%; 
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#aboutPage{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#aboutPageLeft, #aboutPageRight{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#hiring {
+    padding-left: 50px;
+    padding-right: 50px;
+}
